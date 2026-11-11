@@ -39,10 +39,10 @@ cuda = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/seetee/npc"
-Repository = "https://github.com/seetee/npc"
-Issues = "https://github.com/seetee/npc/issues"
-Changelog = "https://github.com/seetee/npc/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/seetee/ttrpg-npc"
+Repository = "https://github.com/seetee/ttrpg-npc"
+Issues = "https://github.com/seetee/ttrpg-npc/issues"
+Changelog = "https://github.com/seetee/ttrpg-npc/blob/main/CHANGELOG.md"
 
 [project.scripts]
 npc = "npc.cli:main"

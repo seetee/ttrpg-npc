@@ -11,8 +11,8 @@ system package `libportaudio2` (for sounddevice). A local
 actual play.
 
 ```bash
-git clone https://github.com/seetee/npc.git
-cd npc
+git clone https://github.com/seetee/ttrpg-npc.git
+cd ttrpg-npc
 uv sync --group dev            # add `--extra cuda` for GPU whisper
 uv run npc --version
 ```
