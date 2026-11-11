@@ -1,6 +1,6 @@
 [project]
 name = "ttrpg-npc"
-version = "1.0.0"
+version = "1.0.1"
 description = "Offline voice agent that role-plays NPCs at the tabletop RPG game table"
 readme = "README.md"
 requires-python = ">=3.11"
