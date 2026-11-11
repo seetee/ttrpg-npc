@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-`npc` — a fully-offline terminal voice agent that role-plays a TTRPG NPC at the game table. Hold a push-to-talk key → mic records → faster-whisper transcribes (Swedish/English auto-detect) → a local LLM via Ollama replies in character → Piper speaks it aloud (British English, `en_GB-alba-medium`). Voice input is ALWAYS in-character player dialogue; typed terminal lines are out-of-character GM instructions to the LLM. Design doc: `/home/kenneth/.claude/plans/the-project-is-as-squishy-pond.md`.
+`npc` — a fully-offline terminal voice agent that role-plays a TTRPG NPC at the game table. Naming: the GitHub repo (`seetee/ttrpg-npc`) and the PyPI package are both `ttrpg-npc`; the CLI command and the import package stay `npc`. Hold a push-to-talk key → mic records → faster-whisper transcribes (Swedish/English auto-detect) → a local LLM via Ollama replies in character → Piper speaks it aloud (British English, `en_GB-alba-medium`). Voice input is ALWAYS in-character player dialogue; typed terminal lines are out-of-character GM instructions to the LLM. Design doc: `/home/kenneth/.claude/plans/the-project-is-as-squishy-pond.md`.
 
 ## Commands
 
