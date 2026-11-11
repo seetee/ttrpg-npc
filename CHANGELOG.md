@@ -26,8 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   avoids the problem (uv prefers an existing system Python over downloading a
   managed one; `--managed-python` is the no-sudo way out). ([#2])
 
-[#2]: https://github.com/seetee/npc/issues/2
-[#3]: https://github.com/seetee/npc/issues/3
+[#2]: https://github.com/seetee/ttrpg-npc/issues/2
+[#3]: https://github.com/seetee/ttrpg-npc/issues/3
 
 ## [1.0.0] — 2026-07-19
 
@@ -80,4 +80,4 @@ tap-to-talk, overlay, doctor --fix, timings), v2.1 (multiple NPCs, gated
 secrets, UTF-8 + onboarding, lore), and v2.2 (LAN overlay, docs) — see
 `ROADMAP.md` for the map.
 
-[1.0.0]: https://github.com/seetee/npc/releases/tag/v1.0.0
+[1.0.0]: https://github.com/seetee/ttrpg-npc/releases/tag/v1.0.0

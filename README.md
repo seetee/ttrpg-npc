@@ -112,8 +112,8 @@ examples below becomes optional.
 **Or from source**, if you want to hack on it:
 
 ```bash
-git clone https://github.com/seetee/npc.git
-cd npc
+git clone https://github.com/seetee/ttrpg-npc.git
+cd ttrpg-npc
 uv sync                               # CPU-only
 uv sync --extra cuda                  # with NVIDIA GPU
 ```
