@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] — 2026-11-11
+
+### Changed
+
+- The GitHub repository is now `seetee/ttrpg-npc`, matching the PyPI package
+  name (old `seetee/npc` URLs redirect). The command stays `npc`.
+
 ### Fixed
 
 - `npc doctor` no longer prints a copy-pasteable voice-download command that
@@ -80,4 +87,5 @@ tap-to-talk, overlay, doctor --fix, timings), v2.1 (multiple NPCs, gated
 secrets, UTF-8 + onboarding, lore), and v2.2 (LAN overlay, docs) — see
 `ROADMAP.md` for the map.
 
+[1.0.1]: https://github.com/seetee/ttrpg-npc/releases/tag/v1.0.1
 [1.0.0]: https://github.com/seetee/ttrpg-npc/releases/tag/v1.0.0
